@@ -62,4 +62,6 @@ export const ProductPrice = styled.Text`
   color: #e83f5b;
 `;
 
-export const ProductButton = styled.TouchableOpacity``;
+export const ProductButton = styled.TouchableOpacity`
+  
+`;
